@@ -5,44 +5,44 @@
     {
       "id": "Lawnchair",
       "last_update": 1652853467000,
-      "prop_url": "https://raw.githubusercontent.com/fufufu7/system_lawnchair/main/module.prop",
-      "zip_url": "https://github.com/fufufu7/system_lawnchair/releases/download/v1.0/System_Lawnchair-v1.0.zip",
-      "notes_url": "https://raw.githubusercontent.com/fufufu7/system_lawnchair/main/README.md"
+      "prop_url": "https://raw.githubusercontent.com/muflihulfata/system_lawnchair/main/module.prop",
+      "zip_url": "https://github.com/muflihulfata/system_lawnchair/releases/download/v1.0/System_Lawnchair-v1.0.zip",
+      "notes_url": "https://raw.githubusercontent.com/muflihulfata/system_lawnchair/main/README.md"
     },
     {
       "id": "Symbiote",
       "last_update": 1652324177000,
-      "prop_url": "https://raw.githubusercontent.com/fufufu7/Symbiote/main/module.prop",
-      "zip_url": "https://github.com/fufufu7/Symbiote/releases/download/v12/Symbiote-Final.zip",
-      "notes_url": "https://raw.githubusercontent.com/fufufu7/Symbiote/main/README.md"
+      "prop_url": "https://raw.githubusercontent.com/muflihulfata/Symbiote/main/module.prop",
+      "zip_url": "https://github.com/muflihulfata/Symbiote/releases/download/v12/Symbiote-Final.zip",
+      "notes_url": "https://raw.githubusercontent.com/muflihulfata/Symbiote/main/README.md"
     },
     {
       "id": "Muse-IsolatedSystem",
       "last_update": 1652853467000,
-      "prop_url": "https://raw.githubusercontent.com/fufufu7/IsolatedSystem/main/module.prop",
-      "zip_url": "https://github.com/fufufu7/IsolatedSystem/releases/download/v7/IsolatedSystem-v7.zip",
-      "notes_url": "https://raw.githubusercontent.com/fufufu7/IsolatedSystem/main/README.md"
+      "prop_url": "https://raw.githubusercontent.com/muflihulfata/IsolatedSystem/main/module.prop",
+      "zip_url": "https://github.com/muflihulfata/IsolatedSystem/releases/download/v7/IsolatedSystem-v7.zip",
+      "notes_url": "https://raw.githubusercontent.com/muflihulfata/IsolatedSystem/main/README.md"
     },
     {
       "id": "riru_Xposedo",
       "last_update": 1653150711000,
-      "prop_url": "https://raw.githubusercontent.com/fufufu7/Xposedo/main/module.prop",
-      "zip_url": "https://github.com/fufufu7/Xposedo/releases/download/v0.0.0.2/Xposedo-v0.0.0.2.zip",
-      "notes_url": "https://raw.githubusercontent.com/fufufu7/Xposedo/main/README.md"
+      "prop_url": "https://raw.githubusercontent.com/muflihulfata/Xposedo/main/module.prop",
+      "zip_url": "https://github.com/muflihulfata/Xposedo/releases/download/v0.0.0.2/Xposedo-v0.0.0.2.zip",
+      "notes_url": "https://raw.githubusercontent.com/muflihulfata/Xposedo/main/README.md"
     },
     {
       "id": "riru_edxposed_sandhook",
       "last_update": 1640056254000,
-      "prop_url": "https://raw.githubusercontent.com/fufufu7/EdXposed/main/module.prop",
-      "zip_url": "https://github.com/fufufu7/EdXposed/releases/download/v0.5.1.4/EdXposed-v0.5.1.4.zip",
-      "notes_url": "https://raw.githubusercontent.com/fufufu7/EdXposed/main/README.md"
+      "prop_url": "https://raw.githubusercontent.com/muflihulfata/EdXposed/main/module.prop",
+      "zip_url": "https://github.com/muflihulfata/EdXposed/releases/download/v0.5.1.4/EdXposed-v0.5.1.4.zip",
+      "notes_url": "https://raw.githubusercontent.com/muflihulfata/EdXposed/main/README.md"
     },
     {
       "id": "riru-core",
       "last_update": 1639570144000,
-      "prop_url": "https://raw.githubusercontent.com/fufufu7/Riru/main/module.prop",
-      "zip_url": "https://github.com/fufufu7/Riru/releases/download/V25.4.4/riru-v25.4.4-release.zip",
-      "notes_url": "https://raw.githubusercontent.com/fufufu7/Riru/main/README.md"
+      "prop_url": "https://raw.githubusercontent.com/muflihulfata/Riru/main/module.prop",
+      "zip_url": "https://github.com/muflihulfata/Riru/releases/download/V25.4.4/riru-v25.4.4-release.zip",
+      "notes_url": "https://raw.githubusercontent.com/muflihulfata/Riru/main/README.md"
     }
   ]
 }
